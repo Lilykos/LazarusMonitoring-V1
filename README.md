@@ -16,13 +16,13 @@ The code in this repository was implemented as a first, more general approach of
 However the code for the complete project can be found here as well:<br>
 <ul>
 
-<li> <b>Lazarus: The WiFi Monitoring Software (version 2)</b> <br>
+<li>  <a href="https://github.com/Lilykos/LazarusMonitoringV2"> <b>Lazarus: The WiFi Monitoring Software (version 2)</b> </a> <br>
 A "tinkered" version of the first project for Web Services communication(through SOAP).
 </li>
-<li> <a href="https://github.com/Lilykos/LazarusMonitoringV2"> <b>Lazarus Web Server/GUI</b> </a> <br>
+<li> <a href="https://github.com/Lilykos/LazarusWebService"> <b>Lazarus Web Server/GUI</b> </a> <br>
 The Web Services project which communicates with the monitoring software and the android application. It includes database connectivity for information storage and a GUI for presenting the info.
 </li>
-<li> <b>Lazarus4Android</b> <br>
+<li> <a href="https://github.com/Lilykos/Lazarus4Android"> <b>Lazarus4Android</b> </a> <br>
 A simple android application which connects to the Web Service (using ksoap 2) and sends general mobile information like GPS Longitude/Latitude, Battery level, etc.
 </li>
 </ul>
