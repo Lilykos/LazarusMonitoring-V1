@@ -13,7 +13,7 @@ Lazarus Software Complete
 ===================
 
 The code in this repository was implemented as a first, more general approach of the final project. However I uploaded it on github as it can perfectly stand on its own as a well presented and working monitoring software.<br><br>
-However the code for the complete project can be found here as well:<br>
+The code for the complete project can be found here as well:<br>
 <ul>
 
 <li>  <a href="https://github.com/Lilykos/LazarusMonitoringV2"> <b>Lazarus: The WiFi Monitoring Software (version 2)</b> </a> <br>
