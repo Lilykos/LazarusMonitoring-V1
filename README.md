@@ -19,7 +19,7 @@ However the code for the complete project can be found here as well:<br>
 <li> <b>Lazarus: The WiFi Monitoring Software (version 2)</b> <br>
 A "tinkered" version of the first project for Web Services communication(through SOAP).
 </li>
-<li> <b>Lazarus Web Server/GUI</b> <br>
+<li> <a href="https://github.com/Lilykos/LazarusMonitoringV2"> <b>Lazarus Web Server/GUI</b> </a> <br>
 The Web Services project which communicates with the monitoring software and the android application. It includes database connectivity for information storage and a GUI for presenting the info.
 </li>
 <li> <b>Lazarus4Android</b> <br>
